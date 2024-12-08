@@ -170,3 +170,6 @@ class Pacman {
         canvasContext.restore();
     }
 }
+
+console.log(dirction_right);
+
